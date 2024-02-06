@@ -1,10 +1,11 @@
-# Read me please!!!
+#Read me please!!!
 
 <a name="how_to_git"></a>
-## How to git
+- ##How to git##
 <a name="install_git"></a>
-###Git installieren
+	- ###Git installieren###
 <a name="understand_git"></a>
-###Git verstehen
+	- ###Git verstehen###
 <a name="my_git_experience"></a>
-##Meine Git Erfahrung
+- ##Meine Git Erfahrung##
+
