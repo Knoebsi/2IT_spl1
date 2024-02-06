@@ -8,7 +8,9 @@
 - [Wichtige Tipps für Git](#important_hints_for_git)
 - [Meine Git Erfahrung](#my_git_experience)
 - [Kleines Code Beispiel](#small_code_example)
-- [Tabelle](#table)
+- [Einkaufen](#shopping)
+	- [Preistabelle](#table)
+	- [Einkaufsliste](#shoppinglist)
 
 <a name="how_to_git"></a>
 ## How to git
@@ -83,10 +85,23 @@ def game():
 #Start des Programms
 game()
 ```
+
+<a name="shopping"></a>
+## Gehen Sie Einkaufen
+
+Hier sind Sachen zum einkaufen.
+
 <a name="table"></a>
-## Tabelle
+### Preistabelle
 | Produkt        | Preis |
 | -------------- | -----:|
 | Brot           |    €5 |
 | Semmel         | €0.45 |
 | HTL Leoben     |  €540 |
+
+<a name="shoppinglist"></a>
+### Einkaufsliste
+- [x] Semmel
+    - [x] Eis
+        - [x] Chips
+- [ ] Brot
