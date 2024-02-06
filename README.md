@@ -14,7 +14,7 @@
 
 <a name="install_git"></a>
 ### Git installieren
-Hier befindet sich ein Youtube Video, das erklärt, wie man Git installiert.
+Hier befindet sich ein Youtube Video, das erklärt, wie man Git installiert. <br>
 [Youtube](https://www.youtube.com/watch?v=cJTXh7g-uCM)
 
 <a name="understand_git"></a>
