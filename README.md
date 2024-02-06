@@ -7,6 +7,7 @@
 	- [Git verstehen](#understand_git)
 - [Wichtige Tipps für Git](#important_hints_for_git)
 - [Meine Git Erfahrung](#my_git_experience)
+- [Kleines Code Beispiel](#small_code_example)
 
 <a name="how_to_git"></a>
 ## How to git
@@ -39,3 +40,45 @@ Meine Erfahrung mit Git war für mich persönlich sehr angenehm. Ich kenne mich 
 Mit freundlichen Grüßen <br>
 Martn Knöbelreiter
 
+<a name="small_code_example"></a>
+## Kleines Code Beispiel
+
+```python
+#Zahlenraten für Fortgeschrittene
+
+from random import *
+
+def game():
+    
+    #Zufallszahl generieren
+    zahl = randint(1, 20)
+    
+    #Schätzung resetten
+    schaetzung = 0
+    
+    #Versuche definieren
+    versuche = 0
+    
+    #Die Schätzung des Nutzers bekommen
+    while schaetzung != zahl:
+        schaetzung = int(input("Raten Sie eine Zahl zwischen 1 und 20: "))
+        versuche = versuche + 1
+        if schaetzung == zahl:
+            print("Gewonnen!")
+            print("Sie haben", versuche, "Versuche gebraucht!")
+        elif schaetzung < zahl:
+            print("Zu niedrig.")
+            if schaetzung <= zahl -5:
+                print("Sie sind weit entfernt!")
+            else:
+                print("Sie sind knapp dran!")
+        else:
+            print("Zu hoch.")
+            if schaetzung >= zahl +5:
+                print("Sie sind weit entfernt!")
+            else:
+                print("Sie sind knapp dran!")
+
+#Start des Programms
+game()
+```
