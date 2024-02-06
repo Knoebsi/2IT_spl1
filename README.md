@@ -8,6 +8,7 @@
 - [Wichtige Tipps für Git](#important_hints_for_git)
 - [Meine Git Erfahrung](#my_git_experience)
 - [Kleines Code Beispiel](#small_code_example)
+- [Tabelle](#table)
 
 <a name="how_to_git"></a>
 ## How to git
@@ -16,12 +17,12 @@
 
 <a name="install_git"></a>
 ### Git installieren
-Hier befindet sich ein Youtube Video, das erklärt, wie man Git installiert. <br>
+Hier befindet sich ein _Youtube_ Video, das erklärt, wie man **Git** installiert. <br>
 [How to install Git on Windows 10 | Updated 2022](https://www.youtube.com/watch?v=cJTXh7g-uCM)
 
 <a name="understand_git"></a>
 ### Git verstehen
-Hier befindet sich ein Youtube Video, das erklärt, wie man Git versteht und verwendet. <br>
+Hier befindet sich ein _Youtube_ Video, das erklärt, wie man **Git** versteht und verwendet. <br>
 [Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 
 <a name="important_hints_for_git"></a>
@@ -82,3 +83,10 @@ def game():
 #Start des Programms
 game()
 ```
+<a name="table"></a>
+## Tabelle
+| Produkt        | Preis |
+| -------------- | -----:|
+| Brot           |    €5 |
+| Semmel         | €0.45 |
+| HTL Leoben     |  €540 |
