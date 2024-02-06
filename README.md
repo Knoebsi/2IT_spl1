@@ -5,7 +5,8 @@
 - [How to git](#how_to_git)
 	- [Git installieren](#install_git)
 	- [Git verstehen](#understand_git)
-- [Meine Git Erfahrung](#my_git_experience)]
+- [Wichtige Tipps für Git](#important_hints_for_git)
+- [Meine Git Erfahrung](#my_git_experience)
 
 <a name="how_to_git"></a>
 ## How to git
@@ -15,10 +16,26 @@
 <a name="install_git"></a>
 ### Git installieren
 Hier befindet sich ein Youtube Video, das erklärt, wie man Git installiert. <br>
-[Youtube](https://www.youtube.com/watch?v=cJTXh7g-uCM)
+[How to install Git on Windows 10 | Updated 2022](https://www.youtube.com/watch?v=cJTXh7g-uCM)
 
 <a name="understand_git"></a>
 ### Git verstehen
+Hier befindet sich ein Youtube Video, das erklärt, wie man Git versteht und verwendet. <br>
+[Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw)
+
+<a name="important_hints_for_git"></a>
+## Wichtige Tipps für Git
+
+1. Git installieren
+2. Git verstehen
+3. Falls Sie verzweifeln wenden Sie sich an [Ferdinand Knapitsch](https://www.knapitsch.at/)
+4. Git verwenden
+5. Spaß haben mit Git!!!
+
 <a name="my_git_experience"></a>
 ## Meine Git Erfahrung
+
+Meine Erfahrung mit Git war für mich persönlich sehr angenehm. Ich kenne mich nun einigermaßen gut aus und werde es in Zukunft hoffentlich mehr verwenden. Es ist eine sehr nützliche Anwendung. <br>
+Mit freundlichen Grüßen <br>
+Martn Knöbelreiter
 
